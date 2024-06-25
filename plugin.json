@@ -1,10 +1,10 @@
 {
-    "name": "My plugin",
-    "version": "0.0.1",
-    "description": "Description of my_plugin.",
-    "author_name": "Me",
-    "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
-    "tags": "cat, template, example",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
+  "name": "Cat Norris",
+  "version": "0.0.1",
+  "description": "Cat Norris is an agent that calls external APIs when the user asks something about Chuck Norris.",
+  "author_name": "Gialicus",
+  "author_url": "https://github.com/gialicus/",
+  "plugin_url": "https://github.com/gialicus/catnorris",
+  "tags": "cat, fun, http, chuckNorris",
+  "thumb": "https://raw.githubusercontent.com/my_repo_path/cat_norris.png"
 }
